@@ -1,0 +1,3 @@
+D:/Programms/111/High Code/Kursach/HumAlg/cmake-build-debug/CMakeFiles/HumAlg.dir
+D:/Programms/111/High Code/Kursach/HumAlg/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programms/111/High Code/Kursach/HumAlg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
